@@ -1,0 +1,11 @@
+{
+  "name": "discord-practice",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "repository": "https://github.com/maikimilk/discord-practice.git",
+  "author": "maikimilk <maimu.ltd@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
